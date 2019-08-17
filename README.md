@@ -1,6 +1,6 @@
-# React Calculator Standard
+# Javascript Calculator 
 
-A calculator that provides the essential arithmetic operations, an expression builder, and a complete history of all expressions.
+Calculator built with react, node.js, and webpack.
 
 Features:
 
