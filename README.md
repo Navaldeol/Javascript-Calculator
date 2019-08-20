@@ -14,4 +14,5 @@ Features:
   * Show complete history of entered expressions
   * Clear history
 * Clear current value and expression
-* Clear everything. Like _'Clear'_, but clears history as well
+* Clear everything. Like _'Clear'_, but clears history as well  
+[Link to Live App](https://kiwi-challenge.glitch.me)
