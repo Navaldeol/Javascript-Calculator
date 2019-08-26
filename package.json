@@ -1,5 +1,5 @@
 {
-  "name": "react-calculator-standard",
+  "name": "Calculator",
   "version": "1.0.0",
   "description": "A calculator that provides simple arithmetic operations",
   "scripts": {
